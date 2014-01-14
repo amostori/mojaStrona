@@ -33,13 +33,12 @@
 		$(document).ready(function(){
 			
 			$('#sliding-navigation a').click(function(){
-		
+		var odp = $('#odp');
+		var dash = $('#dashboard');
 				var url = $(this).attr('href');
 				$('#art1_eduNew').load(url + (' #art1_edu'));
-				$('#odp').removeClass('schowaj');
-				$('#dashboard').load(url + (' #dashboard2'));
-	
-				
+				odp.removeClass('schowaj');
+				dash.load(url + (' #dashboard2'));
 				return false;
 				
 			
