@@ -82,6 +82,8 @@
 			<a href="../images/am6.jpg" rel="gallery" title="Ładne miejsce"><img src="../images/am6_h.jpg"  alt="kamienna ściana"></a>
 			<a href="../images/am7.jpg" rel="gallery" title="am6"><img src="../images/am7_h.jpg"  alt="piłki do golfa"></a>
 			<a href="../images/am8.jpg" rel="gallery" title="Ładne miejsce"><img src="../images/am8_h.jpg"  alt="kamienna ściana"></a>
+			<a href="../images/szymi.jpg" rel="gallery" title="Ładne miejsce"><img src="../images/szymi_h.jpg"  alt="kamienna ściana"></a>
+			
 		</div>
 			
 			
